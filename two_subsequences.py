@@ -1,4 +1,4 @@
-
+#https://codeforces.com/contest/1602/problem/A
 
 t = int(input())
 while(t):
