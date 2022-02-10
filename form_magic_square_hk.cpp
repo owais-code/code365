@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true
+//https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true
 
 #include <iostream>
 #include<vector>
